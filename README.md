@@ -10,7 +10,8 @@
 
 ### 全局配置：
 
-* [QuantumultX.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/QuantumultX.conf)
+* [QuantumultX.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/QuantumultX.conf)为原版
+* 其余Quantumult.conf为各时期修改版
 
 
 ### 本地配置：
